@@ -1,6 +1,6 @@
 # Food Systems Research Center
 
-![Rows of kale at the UVM Horticultural Farm in South Burlington, Vermont](hort_farm_crop.jpg)
+![Rows of kale at the UVM Horticultural Farm in South Burlington, Vermont](https://github.com/Food-Systems-Research-Center/.github/blob/main/hort_farm_crop.jpg)
 
 ## About
 
