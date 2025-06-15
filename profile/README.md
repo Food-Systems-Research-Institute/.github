@@ -1,6 +1,6 @@
 # Food Systems Research Institute
 
-![Rows of kale at the UVM Horticultural Farm in South Burlington, Vermont](https://github.com/Food-Systems-Research-Center/.github/blob/main/hort_farm_crop.jpg)
+![Rows of kale at the UVM Horticultural Farm in South Burlington, Vermont](https://github.com/Food-Systems-Research-Institute/.github/blob/main/hort_farm_crop.jpg)
 
 ## About
 
@@ -17,9 +17,9 @@ The FSRI is engaged in a variety of endeavors addressing food security, soil hea
 > [!NOTE]
 > This project is early in development. The framework, metrics, and analyses are all preliminary.
 
-- [sm-data](https://www.github.com/food-systems-research-institute/sm-data): An R project that collects, cleans, and compiles secondary data from a variety of sources.
-- [sm-docs](https://www.github.com/food-systems-research-institute/sm-docs): A Quarto website that describes the framework, metrics, and preliminary exploratory analyses of secondary data.
-- [sm-explorer](https://www.github.com/food-systems-research-institute/sm-explorer): A Shiny app providing an interactive exporation of metrics, including spatial data.
+- [sm-data](https://www.github.com/food-systems-research-institute/SMdata): An R project that collects, cleans, and compiles secondary data from a variety of sources.
+- [sm-docs](https://www.github.com/food-systems-research-institute/SMdocs): A Quarto website that describes the framework, metrics, and preliminary exploratory analyses of secondary data.
+- [sm-explorer](https://www.github.com/food-systems-research-institute/SMexplorer): A Shiny app providing an interactive exporation of metrics, including spatial data.
 
 ## Contact
 
